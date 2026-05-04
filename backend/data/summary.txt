@@ -1,0 +1,5 @@
+Computer Science student at Saarland University with strong foundations in machine learning, systems, and software engineering, and incoming MSc student at TUM.
+Experienced in research at DFKI, working on facial expression recognition using computer vision, deep learning, and large-scale datasets.
+Skilled full-stack and app developer, having built and deployed real-world applications using Flutter, Firebase, and modern APIs.
+Entrepreneurial mindset with projects like a live laundry booking system and an AI-powered quiz generation tool.
+Active in teaching, leadership, and international tech events, combining technical expertise with communication and community involvement.
